@@ -15,6 +15,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 # 追加したgem
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
+gem 'font-awesome-sass', '~> 5.12.0'
 
 
 group :development, :test do
